@@ -1,0 +1,22 @@
+{
+  "name": "team-sorting",
+  "version": "1.0.0",
+  "description": "A tool for sorting players into teams with fairness metrics",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "clean": "rm -rf dist"
+  },
+  "keywords": ["team", "sorting", "fairness", "shuffle"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
