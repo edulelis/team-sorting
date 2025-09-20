@@ -1,7 +1,7 @@
 # Team Sorting Tool
 
 Used AI to generate part of this code.
-
+ime spent (01h59m - including time to write documentation and prep the environment)
 
 ## How to run it
 
